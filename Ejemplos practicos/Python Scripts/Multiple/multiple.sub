@@ -1,0 +1,9 @@
+executable = multiple.py
+arguments = "$(book) $(n)" 
+transfer_input_files = $(book) 
+
+output = $(book)_top_$(n).out 
+error = $(book)_top_$(n).err 
+log = $(book)_top_$(n).log 
+
+queue book, n from list.txt

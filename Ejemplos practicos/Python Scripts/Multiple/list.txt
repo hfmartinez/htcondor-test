@@ -1,0 +1,9 @@
+AAiW.txt, 10 
+AAiW.txt, 25 
+AAiW.txt, 50 
+PandP.txt, 10 
+PandP.txt, 25 
+PandP.txt, 50
+TAoSH.txt, 10
+TAoSH.txt, 25
+TAoSH.txt, 50

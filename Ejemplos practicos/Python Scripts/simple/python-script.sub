@@ -1,0 +1,13 @@
+executable = freq.py
+arguments = words.txt
+transfer_input_files = words.txt
+
+output = python-script.out
+error = python-script.err
+log = python-script.log
+
+request_cpus = 1
+request_memory = 1GB
+request_disk = 1GB
+
+queue
